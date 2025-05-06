@@ -38,6 +38,7 @@ const reactElement = {
 //step 1: get HTML in JS by ID
 const mainContainer = document.querySelector('#root');
 
+
 //step 3: method that adds the reactElement in mainContainer 
 customRender(reactElement, mainContainer)
 
